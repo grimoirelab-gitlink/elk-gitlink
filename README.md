@@ -1,2 +1,2 @@
-# elk-gitlink
-repository for elk backend of Gitlink community
+# grimoirelab_development_gitlink
+
